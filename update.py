@@ -37,7 +37,7 @@ try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
 except:
-    UPSTREAM_REPO = "https://github.com/RAFIQ-CLOUD/MLTB-HEROKU"
+    UPSTREAM_REPO = "https://github.com/RAFIQ-CLOUD/MR-MLTB-HEROKU-PREDVD"
 try:
     if len(UPSTREAM_BRANCH) == 0:
        raise TypeError
